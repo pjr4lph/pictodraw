@@ -8,15 +8,15 @@ class App extends Component {
 		super();
 	}
 
-	// <Users /> 
+	// <Users />
 	// <MessageBox />
 	render() {
 		return(
 			<div>
-			 	<Canvas /> 
-			 	<Users /> 
-				<MessageBox />  
-			</div> 
+			 	<Canvas />
+			 	<Users />
+				<MessageBox />
+			</div>
 		);
 	}
 }
